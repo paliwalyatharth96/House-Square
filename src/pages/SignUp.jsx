@@ -66,7 +66,7 @@ function SignUp() {
       <>
         <div className="pageContainer">
           <header>
-             <p className="pageHeader">Welcome!</p>
+             <p className="pageHeader">Welcome Back!</p>
           </header>
             <form onSubmit= {onSubmit} >
             <input type="text" className="nameInput"  placeholder="Name" id="name" value={name}
